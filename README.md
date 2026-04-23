@@ -1,75 +1,63 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<h3 align="center">I'm Abhay Patel 🚀 | Full-Stack Developer | DSA Enthusiast</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
-</div>
-
-###
-
-<div align="center">
-  <a href="mailto:patelabhay0401@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=patelabhay04&theme=dracula" height="150" />
-  
-  <img src="https://github-profile-trophy.vercel.app?username=patelabhay04&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
-</div>
-
-###
+<h1 align="center">Abhay Patel ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patelabhay04/patelabhay04/output/snake.svg" alt="Snake animation" />
+  <b>Full-Stack Developer | Problem Solver | Building Real Systems</b>
 </p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+things+that+actually+work;Full+Stack+Developer;DSA+Practitioner;Always+learning+%26+improving&center=true&width=500&height=45">
+</p>
 
-<h3 align="left">🚀 About Me</h3>
+---
 
-- 🎓 B.Tech CSE student  
+## 🧠 Who Am I
+
+I’m not here to just learn syntax.  
+I’m here to **build systems that work in real life**.
+
+- 🎓 B.Tech CSE @ Galgotias University  
 - 💻 Full-Stack Developer (React + Node + Spring Boot)  
-- 🧠 Strong in DSA (LeetCode, Codeforces)  
-- ⚡ Building scalable and efficient applications  
-- 📌 Focused on clean code and continuous improvement  
+- 🧠 Strong focus on DSA (LeetCode, Codeforces)  
+- ⚡ I enjoy solving problems and optimizing solutions  
+- 📌 Goal: Become a developer who can **design + build + scale**
 
-###
+---
 
-<h3 align="left">🚀 Projects</h3>
-
-- 🎓 Alumni Connect (React + TypeScript + APIs)  
-- 🎧 Spotify Clone (HTML, CSS, JS)  
-
-###
+## ⚙️ Tech Arsenal
 
 <p align="center">
-  <i>“I build. I break. I improve. Repeat.”</i> ⚡
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,spring,mysql,mongodb,git,github&perline=5" />
 </p>
+
+---
+
+## 🚀 What I’ve Built
+
+### 🎓 Alumni Connect (Educon)
+> A scalable web platform connecting students and alumni
+
+- Built with **React + TypeScript + APIs**
+- Component-based architecture for scalability  
+- Secure API handling + real-time updates  
+- Clean UI focused on usability  
+
+---
+
+### 🎧 Spotify Clone
+> Because building UI is easy… making it feel real is not
+
+- Built using **HTML, CSS, JavaScript**
+- Music controls + dynamic progress tracking  
+- Responsive and interactive design  
+
+---
+
+## 📈 Developer Mindset
+
+```txt
+while(true) {
+  learn();
+  build();
+  break_things();
+  fix_them();
+}

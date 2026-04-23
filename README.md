@@ -15,7 +15,7 @@
 I’m not here to just learn syntax.  
 I’m here to **build systems that work in real life**.
 
-- 🎓 B.Tech CSE @ Galgotias University  
+- 🎓 B.Tech CSE 
 - 💻 Full-Stack Developer (React + Node + Spring Boot)  
 - 🧠 Strong focus on DSA (LeetCode, Codeforces)  
 - ⚡ I enjoy solving problems and optimizing solutions  
